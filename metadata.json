@@ -1,0 +1,5 @@
+{
+  "name": "Pixabay Image Gallery",
+  "description": "A full-stack image gallery application using Pixabay API, featuring user authentication, favorites, and download tracking.",
+  "requestFramePermissions": []
+}
